@@ -1,0 +1,14 @@
+C:\Proyectos\CursoSharp\HelloWorld\bin\Debug\net7.0\HelloWorld.exe
+C:\Proyectos\CursoSharp\HelloWorld\bin\Debug\net7.0\HelloWorld.deps.json
+C:\Proyectos\CursoSharp\HelloWorld\bin\Debug\net7.0\HelloWorld.runtimeconfig.json
+C:\Proyectos\CursoSharp\HelloWorld\bin\Debug\net7.0\HelloWorld.dll
+C:\Proyectos\CursoSharp\HelloWorld\bin\Debug\net7.0\HelloWorld.pdb
+C:\Proyectos\CursoSharp\HelloWorld\obj\Debug\net7.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CursoSharp\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Proyectos\CursoSharp\HelloWorld\obj\Debug\net7.0\HelloWorld.AssemblyInfo.cs
+C:\Proyectos\CursoSharp\HelloWorld\obj\Debug\net7.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Proyectos\CursoSharp\HelloWorld\obj\Debug\net7.0\HelloWorld.dll
+C:\Proyectos\CursoSharp\HelloWorld\obj\Debug\net7.0\refint\HelloWorld.dll
+C:\Proyectos\CursoSharp\HelloWorld\obj\Debug\net7.0\HelloWorld.pdb
+C:\Proyectos\CursoSharp\HelloWorld\obj\Debug\net7.0\HelloWorld.genruntimeconfig.cache
+C:\Proyectos\CursoSharp\HelloWorld\obj\Debug\net7.0\ref\HelloWorld.dll
