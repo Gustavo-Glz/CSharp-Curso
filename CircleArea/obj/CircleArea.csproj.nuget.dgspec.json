@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos\\CursoSharp\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Proyectos\\CursoSharp\\CircleArea\\CircleArea.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos\\CursoSharp\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Proyectos\\CursoSharp\\CircleArea\\CircleArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos\\CursoSharp\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Proyectos\\CursoSharp\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Proyectos\\CursoSharp\\CircleArea\\CircleArea.csproj",
+        "projectName": "CircleArea",
+        "projectPath": "C:\\Proyectos\\CursoSharp\\CircleArea\\CircleArea.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos\\CursoSharp\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Proyectos\\CursoSharp\\CircleArea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",

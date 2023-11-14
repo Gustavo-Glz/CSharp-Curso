@@ -1,0 +1,14 @@
+C:\Proyectos\CursoSharp\CircleArea\bin\Debug\net7.0\CircleArea.exe
+C:\Proyectos\CursoSharp\CircleArea\bin\Debug\net7.0\CircleArea.deps.json
+C:\Proyectos\CursoSharp\CircleArea\bin\Debug\net7.0\CircleArea.runtimeconfig.json
+C:\Proyectos\CursoSharp\CircleArea\bin\Debug\net7.0\CircleArea.dll
+C:\Proyectos\CursoSharp\CircleArea\bin\Debug\net7.0\CircleArea.pdb
+C:\Proyectos\CursoSharp\CircleArea\obj\Debug\net7.0\CircleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CursoSharp\CircleArea\obj\Debug\net7.0\CircleArea.AssemblyInfoInputs.cache
+C:\Proyectos\CursoSharp\CircleArea\obj\Debug\net7.0\CircleArea.AssemblyInfo.cs
+C:\Proyectos\CursoSharp\CircleArea\obj\Debug\net7.0\CircleArea.csproj.CoreCompileInputs.cache
+C:\Proyectos\CursoSharp\CircleArea\obj\Debug\net7.0\CircleArea.dll
+C:\Proyectos\CursoSharp\CircleArea\obj\Debug\net7.0\refint\CircleArea.dll
+C:\Proyectos\CursoSharp\CircleArea\obj\Debug\net7.0\CircleArea.pdb
+C:\Proyectos\CursoSharp\CircleArea\obj\Debug\net7.0\CircleArea.genruntimeconfig.cache
+C:\Proyectos\CursoSharp\CircleArea\obj\Debug\net7.0\ref\CircleArea.dll
