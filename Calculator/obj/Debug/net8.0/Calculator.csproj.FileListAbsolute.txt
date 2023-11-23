@@ -1,0 +1,15 @@
+C:\Proyectos\CursoSharp\Calculator\bin\Debug\net8.0\Calculator.exe
+C:\Proyectos\CursoSharp\Calculator\bin\Debug\net8.0\Calculator.deps.json
+C:\Proyectos\CursoSharp\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+C:\Proyectos\CursoSharp\Calculator\bin\Debug\net8.0\Calculator.dll
+C:\Proyectos\CursoSharp\Calculator\bin\Debug\net8.0\Calculator.pdb
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\Calculator.dll
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\Calculator.pdb
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+C:\Proyectos\CursoSharp\Calculator\obj\Debug\net8.0\ref\Calculator.dll

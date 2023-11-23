@@ -1,0 +1,15 @@
+C:\Proyectos\CursoSharp\StackAndQueues\bin\Debug\net8.0\StackAndQueues.exe
+C:\Proyectos\CursoSharp\StackAndQueues\bin\Debug\net8.0\StackAndQueues.deps.json
+C:\Proyectos\CursoSharp\StackAndQueues\bin\Debug\net8.0\StackAndQueues.runtimeconfig.json
+C:\Proyectos\CursoSharp\StackAndQueues\bin\Debug\net8.0\StackAndQueues.dll
+C:\Proyectos\CursoSharp\StackAndQueues\bin\Debug\net8.0\StackAndQueues.pdb
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\StackAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\StackAndQueues.AssemblyInfoInputs.cache
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\StackAndQueues.AssemblyInfo.cs
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\StackAndQueues.csproj.CoreCompileInputs.cache
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\StackAndQueues.sourcelink.json
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\StackAndQueues.dll
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\refint\StackAndQueues.dll
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\StackAndQueues.pdb
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\StackAndQueues.genruntimeconfig.cache
+C:\Proyectos\CursoSharp\StackAndQueues\obj\Debug\net8.0\ref\StackAndQueues.dll
